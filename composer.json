@@ -1,0 +1,14 @@
+{
+    "name": "lled/oop-praktikum-7",
+    "description": "Praktikum 7 Pemograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    },
+    "authors": [
+        {
+            "name": "Arievan",
+            "email": "arievan920@gmail.com"
+        }
+    ]
+}
